@@ -1,2 +1,2 @@
-# Home-Page---Monte-Alegre
+# HOME PAGE - Monte Alegre
 Página inicial dividida para dois sub domínios.
